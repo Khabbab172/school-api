@@ -1,9 +1,3 @@
-Here’s a **clean, recruiter-friendly README** version — the kind that looks good on GitHub when recruiters or hiring managers open your repository. It focuses on clarity, impact, and engineering practices instead of just listing endpoints.
-
-You can replace your existing `README.md` with this.
-
----
-
 # 🎓 School API — Spring Boot REST Application
 
 A production-style **RESTful School Management API** built using **Spring Boot**, **Spring Data JPA**, and **MySQL**.
